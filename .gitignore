@@ -86,7 +86,7 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
-.bat
+*.bat
 
 # Spyder project settings
 .spyderproject
